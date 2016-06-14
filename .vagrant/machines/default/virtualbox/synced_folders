@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/nyaripasar":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/nyaripasar","hostpath":"/home/jowy/Asrul/phpproject/nyaripasar","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/jowy/Asrul/phpproject/nyaripasar","disabled":false,"__vagrantfile":true}}}
