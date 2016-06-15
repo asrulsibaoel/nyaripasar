@@ -24,7 +24,7 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 
-    public function createUserWithData(string $name, string $email, string $password, string $role, string $description)
+    public static function createUserWithData(string $name, string $email, string $password, string $role, string $description)
     {
         $static = new static();
         $static->name = $name;
